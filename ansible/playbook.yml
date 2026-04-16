@@ -1,0 +1,6 @@
+- name: Setup Docker and run container
+  hosts: servers
+  become: true
+
+  roles:
+    - docker_setup

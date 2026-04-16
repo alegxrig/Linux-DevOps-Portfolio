@@ -1,4 +1,4 @@
-# AstraLinux DevOps Portfolio
+# Linux DevOps Portfolio
 
 ## О проекте
 
